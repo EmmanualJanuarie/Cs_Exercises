@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\bin\Debug\net8.0\ToSeconds.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\bin\Debug\net8.0\ToSeconds.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\bin\Debug\net8.0\ToSeconds.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\bin\Debug\net8.0\ToSeconds.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\bin\Debug\net8.0\ToSeconds.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\refint\ToSeconds.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ToSeconds.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ToSeconds\obj\Debug\net8.0\ref\ToSeconds.dll

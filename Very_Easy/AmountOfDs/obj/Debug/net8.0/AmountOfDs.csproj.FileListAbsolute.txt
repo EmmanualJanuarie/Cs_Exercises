@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\bin\Debug\net8.0\AmountOfDs.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\bin\Debug\net8.0\AmountOfDs.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\bin\Debug\net8.0\AmountOfDs.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\bin\Debug\net8.0\AmountOfDs.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\bin\Debug\net8.0\AmountOfDs.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\refint\AmountOfDs.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\AmountOfDs.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\AmountOfDs\obj\Debug\net8.0\ref\AmountOfDs.dll

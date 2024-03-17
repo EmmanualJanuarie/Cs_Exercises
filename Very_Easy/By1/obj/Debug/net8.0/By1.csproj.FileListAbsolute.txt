@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\bin\Debug\net8.0\By1.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\bin\Debug\net8.0\By1.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\bin\Debug\net8.0\By1.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\bin\Debug\net8.0\By1.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\bin\Debug\net8.0\By1.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\refint\By1.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\By1.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\By1\obj\Debug\net8.0\ref\By1.dll

@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\bin\Debug\net8.0\ReturnSum.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\bin\Debug\net8.0\ReturnSum.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\bin\Debug\net8.0\ReturnSum.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\bin\Debug\net8.0\ReturnSum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\bin\Debug\net8.0\ReturnSum.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\refint\ReturnSum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ReturnSum.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\ReturnSum\obj\Debug\net8.0\ref\ReturnSum.dll

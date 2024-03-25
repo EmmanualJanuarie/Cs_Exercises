@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\bin\Debug\net8.0\CheckForNum.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\bin\Debug\net8.0\CheckForNum.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\bin\Debug\net8.0\CheckForNum.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\bin\Debug\net8.0\CheckForNum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\bin\Debug\net8.0\CheckForNum.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\refint\CheckForNum.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\CheckForNum.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\CheckForNum\obj\Debug\net8.0\ref\CheckForNum.dll

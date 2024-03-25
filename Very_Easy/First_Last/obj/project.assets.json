@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\ReturnSum\\ReturnSum.csproj",
-      "projectName": "ReturnSum",
-      "projectPath": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\ReturnSum\\ReturnSum.csproj",
+      "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\First_Last\\First_Last.csproj",
+      "projectName": "First_Last",
+      "projectPath": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\First_Last\\First_Last.csproj",
       "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\ReturnSum\\obj\\",
+      "outputPath": "C:\\Users\\emman\\OneDrive\\Documents\\CTU Traing Solutions Courses\\Research projects\\C#\\Very_Easy\\First_Last\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckForNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c218fad2465c37861561f98942c838e53d729aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5880b3ffd1dd2ef7b181b3cc0a634ef4e711c04")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckForNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckForNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

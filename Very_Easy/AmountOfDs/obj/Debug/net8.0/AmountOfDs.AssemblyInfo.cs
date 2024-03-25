@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmountOfDs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+911c70f123b64a2d32f8fa53f93510d18e63617a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5880b3ffd1dd2ef7b181b3cc0a634ef4e711c04")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmountOfDs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmountOfDs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

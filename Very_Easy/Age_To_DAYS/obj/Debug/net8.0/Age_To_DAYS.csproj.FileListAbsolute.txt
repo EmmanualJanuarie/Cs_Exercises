@@ -1,0 +1,5 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.sourcelink.json

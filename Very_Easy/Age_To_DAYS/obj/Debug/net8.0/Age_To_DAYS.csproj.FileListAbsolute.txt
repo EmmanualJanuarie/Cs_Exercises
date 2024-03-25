@@ -3,3 +3,13 @@ C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects
 C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.AssemblyInfo.cs
 C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.csproj.CoreCompileInputs.cache
 C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\bin\Debug\net8.0\Age_To_DAYS.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\bin\Debug\net8.0\Age_To_DAYS.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\bin\Debug\net8.0\Age_To_DAYS.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\bin\Debug\net8.0\Age_To_DAYS.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\bin\Debug\net8.0\Age_To_DAYS.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\refint\Age_To_DAYS.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\Age_To_DAYS.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\Age_To_DAYS\obj\Debug\net8.0\ref\Age_To_DAYS.dll

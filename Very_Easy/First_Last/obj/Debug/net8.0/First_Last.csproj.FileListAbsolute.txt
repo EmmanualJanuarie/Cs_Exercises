@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\bin\Debug\net8.0\First_Last.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\bin\Debug\net8.0\First_Last.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\bin\Debug\net8.0\First_Last.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\bin\Debug\net8.0\First_Last.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\bin\Debug\net8.0\First_Last.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\refint\First_Last.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\First_Last.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\First_Last\obj\Debug\net8.0\ref\First_Last.dll

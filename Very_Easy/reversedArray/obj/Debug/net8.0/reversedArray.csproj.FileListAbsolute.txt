@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\bin\Debug\net8.0\reversedArray.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\bin\Debug\net8.0\reversedArray.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\bin\Debug\net8.0\reversedArray.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\bin\Debug\net8.0\reversedArray.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\bin\Debug\net8.0\reversedArray.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\refint\reversedArray.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\reversedArray.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\reversedArray\obj\Debug\net8.0\ref\reversedArray.dll

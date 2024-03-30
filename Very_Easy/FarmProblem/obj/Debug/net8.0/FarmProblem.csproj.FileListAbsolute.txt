@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\bin\Debug\net8.0\FarmProblem.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\bin\Debug\net8.0\FarmProblem.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\bin\Debug\net8.0\FarmProblem.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\bin\Debug\net8.0\FarmProblem.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\bin\Debug\net8.0\FarmProblem.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\refint\FarmProblem.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\FarmProblem.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Very_Easy\FarmProblem\obj\Debug\net8.0\ref\FarmProblem.dll

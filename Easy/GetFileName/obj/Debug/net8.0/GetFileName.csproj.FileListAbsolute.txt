@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\bin\Debug\net8.0\GetFileName.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\bin\Debug\net8.0\GetFileName.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\bin\Debug\net8.0\GetFileName.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\bin\Debug\net8.0\GetFileName.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\bin\Debug\net8.0\GetFileName.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\refint\GetFileName.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\GetFileName.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\GetFileName\obj\Debug\net8.0\ref\GetFileName.dll

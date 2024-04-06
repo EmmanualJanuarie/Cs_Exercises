@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\bin\Debug\net8.0\HammingDistance.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\bin\Debug\net8.0\HammingDistance.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\bin\Debug\net8.0\HammingDistance.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\bin\Debug\net8.0\HammingDistance.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\bin\Debug\net8.0\HammingDistance.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\refint\HammingDistance.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\HammingDistance.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\HammingDistance\obj\Debug\net8.0\ref\HammingDistance.dll

@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\bin\Debug\net8.0\Palidrome.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\bin\Debug\net8.0\Palidrome.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\bin\Debug\net8.0\Palidrome.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\bin\Debug\net8.0\Palidrome.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\bin\Debug\net8.0\Palidrome.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\refint\Palidrome.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\Palidrome.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Palidrome\obj\Debug\net8.0\ref\Palidrome.dll

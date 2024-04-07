@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\bin\Debug\net8.0\Circle_OOP.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\bin\Debug\net8.0\Circle_OOP.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\bin\Debug\net8.0\Circle_OOP.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\bin\Debug\net8.0\Circle_OOP.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\bin\Debug\net8.0\Circle_OOP.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\refint\Circle_OOP.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\Circle_OOP.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\Circle_OOP\obj\Debug\net8.0\ref\Circle_OOP.dll

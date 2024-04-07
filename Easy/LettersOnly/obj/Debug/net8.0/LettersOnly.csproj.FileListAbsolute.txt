@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\bin\Debug\net8.0\LettersOnly.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\bin\Debug\net8.0\LettersOnly.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\bin\Debug\net8.0\LettersOnly.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\bin\Debug\net8.0\LettersOnly.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\bin\Debug\net8.0\LettersOnly.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\refint\LettersOnly.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\LettersOnly.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\LettersOnly\obj\Debug\net8.0\ref\LettersOnly.dll

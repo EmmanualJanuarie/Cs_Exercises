@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\bin\Debug\net8.0\ValidZipCode.exe
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\bin\Debug\net8.0\ValidZipCode.deps.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\bin\Debug\net8.0\ValidZipCode.runtimeconfig.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\bin\Debug\net8.0\ValidZipCode.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\bin\Debug\net8.0\ValidZipCode.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.sourcelink.json
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\refint\ValidZipCode.dll
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.pdb
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ValidZipCode.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Documents\CTU Traing Solutions Courses\Research projects\C#\Easy\ValidZipCode\obj\Debug\net8.0\ref\ValidZipCode.dll
